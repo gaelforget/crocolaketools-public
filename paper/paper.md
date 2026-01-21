@@ -155,7 +155,9 @@ If you use CrocoLakeTools and/or CrocoLake, please do not limit yourself to citi
 
 # Acknowledgements
 
-We acknowledge funding from [NSF CSSI CROCODILE details] and [NASA ECCO NSC...].
+We acknowledge funding from [NSF CSSI CROCODILE details]. 
+G.F. acknowledges funding from NASA's ECCO award 1686358 and 
+ARIA's POLEMIX award.
 
 # References
 
